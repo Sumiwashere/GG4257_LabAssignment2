@@ -1,5 +1,4 @@
-oa_code,All occupied household spaces,No central heating,Gas central heating,Electric (including storage heaters) central heating,Oil central heating,Solid fuel (for example wood coal) central heating,Other central heating,Two or more types of central heating
-S92000003,2372777,54965,1761431,317831,135223,26209,16608,60510
+oa_code,All occupied household spaces,No central heating,Gas central heating,Electric (including storage heaters) central heating,Oil central heating,"Solid fuel (for example wood, coal) central heating",Other central heating,Two or more types of central heating
 S00088956,74,1,69,1,2,0,1,0
 S00088957,26,0,9,1,12,0,1,3
 S00088958,27,0,27,0,0,0,0,0
